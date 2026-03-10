@@ -61,6 +61,11 @@ Create `EXPLANATION.md` (max 250 words) containing:
 ## Submission
 
 - Submit a public GitHub repository URL containing your solution to the Google form link provided.
+## To run the test locally
+
+```bash
+npm run test
+```
 
 ## To build the Docker image
 
