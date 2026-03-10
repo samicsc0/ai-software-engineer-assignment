@@ -63,6 +63,14 @@ Create `EXPLANATION.md` (max 250 words) containing:
 - Submit a public GitHub repository URL containing your solution to the Google form link provided.
 ## To run the test locally
 
+Install dependencies:
+
+```bash
+npm i
+```
+
+Run the test:
+
 ```bash
 npm run test
 ```
@@ -76,6 +84,9 @@ sudo docker build -t ai-software-engineer-assignment .
 ```
 
 ## To run the Docker image
+
+Run the following command:
+
 ```bash
 sudo docker run --rm ai-software-engineer-assignment
 ```
