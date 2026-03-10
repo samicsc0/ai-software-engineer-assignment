@@ -1,0 +1,13 @@
+{
+  "name":"ai-software-engineer-assignment",
+  "dependencies": {
+    "vitest": "4.0.18"
+  },
+  "scripts": {
+    "build":"tsc",
+    "test":"vitest"
+  },
+  "devDependencies": {
+    "typescript":"5.9.3"
+  }
+}
